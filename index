@@ -3,7 +3,6 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tienda Express</title>
-    <link rel="stylesheet" href="index.css">
 </head>
 <body>
 
@@ -69,7 +68,5 @@
 <a href="https://wa.me/5219999999999?text=Hola%20quiero%20información" class="whatsapp-float" target="_blank" aria-label="Chat en WhatsApp">
     <img src="https://cdnva.s1gateway.com/file/get/U3dneHZKcCtFTjcvVnJ2WEJpTzFnRE5VUzA0dTcxN291dmhRa1hSS2ZBdkRlL2cvejF0RG5xazFCNTg0VFZCTkJaNWJWRlJSSWZOMzB6aytrSXcwb0E9PQ==" alt="WhatsApp">
 </a>
-
-
-
-</body></html>
+</body>
+</html>
